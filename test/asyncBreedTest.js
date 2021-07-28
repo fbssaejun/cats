@@ -24,6 +24,6 @@ describe('#breedDetailsFromFile', () => {
       assert.equal(expectedDesc, bengal);
     });
 
-  }); 
+  });
 
 })
